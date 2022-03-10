@@ -18,7 +18,10 @@ public class Main {
 		
 		System.out.println("Trapézio");
 		SobrecargaDeMetodo.area(10, 5,3);
-
+		System.out.println("");
+		
+		System.out.println("Losango");
+		SobrecargaDeMetodo.area(5f, 5f);
 	}
 
 }
